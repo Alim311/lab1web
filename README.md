@@ -1,5 +1,5 @@
 # lab1web
-Tugas Pratikum 1 | Agung Nugroho,S.Kom.,M.Kom.,
+Tugas Praktikum 1 | Agung Nugroho,S.Kom.,M.Kom.,
 
 Abdu'Alim Fauzan Rizqi_TI.19.A3_311910583
 
